@@ -1,7 +1,7 @@
 //10 to 1
-function zeroToTen(){
+function tenToOne(){
     for(var i=10; i > 0; i--){
         console.log(i)
     }
 }
-var ZeroToTen = new zeroToTen()
+var tenToOne = new tenToOne()
